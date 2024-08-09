@@ -18,7 +18,7 @@ AOS.init({
   //===
   // VARIABLES
   //===
-  const DATE_TARGET = new Date('09/07/2024 2:00 PM');
+  const DATE_TARGET = new Date('10/19/2024 1:00 PM');
   // DOM for render
   const SPAN_DAYS = document.querySelector('span#days');
   const SPAN_HOURS = document.querySelector('span#hours');
