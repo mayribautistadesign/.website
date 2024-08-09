@@ -134,8 +134,12 @@ img {
 
 
 /* SECTION TITLE */
+.section-titleP {
+    margin-bottom: 10px;
+    padding-bottom: 24rem;
+}
 .section-title {
-    margin-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .section-title .line {
@@ -198,7 +202,7 @@ img {
 
 /* Texto */
 #counter {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.0), rgba(var(--c-brand-rgb), 0.0)), url(../img/IMG_2548.JPG);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.0), rgba(var(--c-brand-rgb), 0.0)), url(../img/IMG_2549.JPG);
     background-position: center;
     background-size: cover;
 }
